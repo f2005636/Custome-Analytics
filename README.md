@@ -1,10 +1,10 @@
 # Customer Analytics 
 
-## Clustering 
+### Clustering 
 
-## Segmentation 
+### Segmentation 
 
-## Marketing mix 
+### Marketing mix 
 *	Price elasticity of purchase probability 
 * Price elasticity of brand choice probability 
 * Price elasticity of purchase quantity 
