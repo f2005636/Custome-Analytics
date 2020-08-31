@@ -5,6 +5,6 @@
 *	Segmentation 
 
 * Marketing mix 
-a.	Price elasticity of purchase probability 
-b.	Price elasticity of brand choice probability 
-c.	Price elasticity of purchase quantity 
+-	Price elasticity of purchase probability 
+-	Price elasticity of brand choice probability 
+-	Price elasticity of purchase quantity 
